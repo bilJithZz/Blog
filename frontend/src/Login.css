@@ -1,0 +1,12 @@
+form{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+    }
+
+    form.Login{
+        max-width: 900px;
+        margin: 0 auto;
+      }

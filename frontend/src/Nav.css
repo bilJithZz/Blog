@@ -1,0 +1,30 @@
+.Blog{
+    font-weight: bold;
+    font-size: 36px;
+
+  }
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    margin:none;
+    padding-left: 25px;
+    padding-right: 25px;
+ }
+ .nav a,link{
+  text-decoration: none;
+  color: inherit;
+ }
+ .search input{
+  padding: 13px;
+  border-radius: 6px;
+  box-shadow: none;
+  width: 300px;
+  border-color: rgb(238, 231, 231);
+
+ }
+.nav nav{
+  font-size: 23px;
+}
+
+

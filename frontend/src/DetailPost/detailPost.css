@@ -1,0 +1,16 @@
+.detailPost{
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+}
+ .img img{
+    width: 600px;
+    height: 400px;
+    display: flex;
+   
+    flex-wrap:inherit;
+    /* object-fit: cover; */   
+}
+.postdisc{
+    width: 40%;
+}

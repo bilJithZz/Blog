@@ -1,0 +1,22 @@
+*{
+padding: 10px;
+align-items: center;
+box-sizing: border-box;
+max-width: 90vw;
+} 
+input{
+  display: block;
+  margin-bottom: 5px;
+  width: 100%;
+  padding: 5px;
+  border: 2px solid #ddd;
+}
+button{
+  display: block;
+  margin-bottom: 5px;
+  width: 100%;
+}
+form h2{
+  text-align: center;
+}
+

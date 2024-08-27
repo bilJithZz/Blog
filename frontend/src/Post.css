@@ -1,0 +1,30 @@
+.post img{
+    width: 97%;
+    height: 35%;
+    object-fit: cover;
+    margin-right: 20px;
+    
+  }
+  .post{
+    /* border: 20px (2,3,4,1); */
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.35);
+    width: 30%;
+    margin: auto;
+   margin-top: 15px;
+   text-decoration: none;
+  }
+  .blogpost{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  .post:hover{
+    color: rgb(3, 3, 3);
+    box-shadow: 1px 10px 20px rgba(255, 12, 182, 0.35);
+    cursor: pointer;
+    text-decoration: none;
+  }
+  .link{
+    text-decoration: none;
+  }
